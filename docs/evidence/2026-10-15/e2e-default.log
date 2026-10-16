@@ -1,0 +1,10 @@
+[2m[WebServer] [22mINFO:     Started server process [1222]
+[2m[WebServer] [22mINFO:     Waiting for application startup.
+[2m[WebServer] [22mINFO:     Application startup complete.
+[2m[WebServer] [22mINFO:     Uvicorn running on http://127.0.0.1:8123 (Press CTRL+C to quit)
+
+Running 1 test using 1 worker
+
+  ✓  1 e2e/campus.spec.ts:26:1 › faculty publishes material; student gets a cited answer, studies, takes a quiz; faculty sees analytics (17.0s)
+
+  1 passed (1.2m)
